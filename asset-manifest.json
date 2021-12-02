@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-third-image-finder/static/css/main.5463faca.chunk.css",
+    "main.js": "/react-third-image-finder/static/js/main.dbd879e1.chunk.js",
+    "main.js.map": "/react-third-image-finder/static/js/main.dbd879e1.chunk.js.map",
+    "runtime-main.js": "/react-third-image-finder/static/js/runtime-main.aedd423c.js",
+    "runtime-main.js.map": "/react-third-image-finder/static/js/runtime-main.aedd423c.js.map",
+    "static/css/2.fe79023c.chunk.css": "/react-third-image-finder/static/css/2.fe79023c.chunk.css",
+    "static/js/2.2cb44315.chunk.js": "/react-third-image-finder/static/js/2.2cb44315.chunk.js",
+    "static/js/2.2cb44315.chunk.js.map": "/react-third-image-finder/static/js/2.2cb44315.chunk.js.map",
+    "index.html": "/react-third-image-finder/index.html",
+    "static/css/2.fe79023c.chunk.css.map": "/react-third-image-finder/static/css/2.fe79023c.chunk.css.map",
+    "static/css/main.5463faca.chunk.css.map": "/react-third-image-finder/static/css/main.5463faca.chunk.css.map",
+    "static/js/2.2cb44315.chunk.js.LICENSE.txt": "/react-third-image-finder/static/js/2.2cb44315.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aedd423c.js",
+    "static/css/2.fe79023c.chunk.css",
+    "static/js/2.2cb44315.chunk.js",
+    "static/css/main.5463faca.chunk.css",
+    "static/js/main.dbd879e1.chunk.js"
+  ]
+}
